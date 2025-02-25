@@ -49,7 +49,6 @@ Berikut hasil Speedtest:
 
 # Kesimpulan
 
-Kesimpulan:
 Berdasarkan hasil pengukuran sinyal provider dari Telkomsel menggunakan aplikasi Network Cell Info Lite, dapat disimpulkan bahwa:
 * Kekuatan Sinyal (RSRP) adalah -98 dBm. Ini menunjukkan bahwa sinyal berada di kategori Good Mid Cell yang berarti sinyal masih bisa diterima, tetapi tidak optimal. 
 * Kualitas Sinyal (RSRQ) adalah  -12 dB, juga dalam kategori Good. Ini menunjukkan kualitas sinyal yang baik.
