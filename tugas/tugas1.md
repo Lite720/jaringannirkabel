@@ -9,7 +9,7 @@ Bayu Trisaputro - 09011382227159
 #
 
 <a> Tugas ini menjelaskan analisis sinyal jaringan yang dilakukan menggunakan aplikasi Network Cell Info. 
-Analisis ini bertujuan untuk mengevaluasi kekuatan dan kualitas sinyal dari provider tertentu di berbagai lokasi. </a>
+Analisis ini bertujuan untuk mengevaluasi kekuatan dan kualitas sinyal dari provider tertentu di suatu lokasi. </a>
 
 <a> Berikut ini tabel kebaikan sinyal berdasarkan RSRP dan RSRQ: </a>
 <br>
